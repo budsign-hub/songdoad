@@ -1,0 +1,274 @@
+{
+ "app": "songdo-ad-map",
+ "version": 3,
+ "updatedAt": "2026-10-30T05:39:01.000Z",
+ "data": {
+  "bs1f-Q2": {
+   "photos": [
+    "photos/e1d3264a3af83abd52ed45efe5faa819aabf98cc16f691279d9ac2387ffb4d2e.jpg",
+    "photos/41136211798395a05b07a68a5843114692c668f8c3cd673d11685023f1f81099.jpg"
+   ]
+  },
+  "floor:bs1f": {
+   "photos": [
+    "photos/fc0ee1886cb6c6039f1abaadc71ed89910900aaee266be26813283abb73af93b.jpg"
+   ],
+   "labels": [
+    {
+     "text": "대기홀",
+     "color": "navy",
+     "size": 15,
+     "x": 59.305835010060356,
+     "y": 84.33351035581519
+    },
+    {
+     "text": "출입구",
+     "color": "navy",
+     "size": 15,
+     "x": 40.19114688128773,
+     "y": 94.31757833244822
+    },
+    {
+     "text": "출입구",
+     "color": "navy",
+     "size": 15,
+     "x": 4.37625754527163,
+     "y": 19.543281996813594
+    },
+    {
+     "text": "상가",
+     "color": "navy",
+     "size": 15,
+     "x": 13.531187122736418,
+     "y": 58.52363250132767
+    }
+   ]
+  },
+  "bs1f-Q3": {
+   "photos": [
+    "photos/3756380fc4c4367e0dcfb20b6b3aab2af006f455bffc9813dfa6dbcb67ee602f.jpg",
+    "photos/448b585a62615e04f140107140f488e7c5377dd77d18e5414d98cfa00f0feec0.jpg"
+   ]
+  },
+  "bs1f-W4": {
+   "photos": [
+    "photos/7db910207ff4cc24a1a785ca05a42c012900f3917c1bb4fda11902c29fd6b864.jpg"
+   ]
+  },
+  "bs1f-D1": {
+   "photos": [
+    "photos/389260a9aca5b55939e6b9d775197e584bc2ebefeddb7d8835855ac1ab7bdcc8.jpg"
+   ]
+  },
+  "bs1f-W3": {
+   "photos": [
+    "photos/9590ddc629daa9d001e47068746d808cdf61a66efbf1f3d53de19d307e812895.jpg"
+   ]
+  },
+  "bs1f-W2": {
+   "photos": [
+    "photos/9590ddc629daa9d001e47068746d808cdf61a66efbf1f3d53de19d307e812895.jpg"
+   ]
+  },
+  "floor:bs3f": {
+   "labels": [
+    {
+     "text": "사무실",
+     "color": "navy",
+     "size": 12,
+     "x": 54.27565392354124,
+     "y": 76.51901215209722
+    }
+   ]
+  },
+  "floor:bs4f": {
+   "labels": [
+    {
+     "text": "대기홀",
+     "color": "navy",
+     "size": 12,
+     "x": 64.13480885311871,
+     "y": 83.28995314940136
+    },
+    {
+     "text": "탑승장",
+     "color": "navy",
+     "size": 15,
+     "x": 30.432595573440647,
+     "y": 70.38001041124414
+    }
+   ],
+   "photos": [
+    "photos/2d2769235a56cd77c63faca5102969cbb15cde60218589feb79c78e1c868966a.jpg"
+   ]
+  },
+  "floor:sp1f": {
+   "labels": [
+    {
+     "text": "대기홀",
+     "color": "navy",
+     "size": 12,
+     "x": 52.249783674646665,
+     "y": 37.3343055808745
+    },
+    {
+     "text": "탑승장",
+     "color": "navy",
+     "size": 12,
+     "x": 41.63541967118547,
+     "y": 29.500768249173152
+    },
+    {
+     "text": "상가",
+     "color": "navy",
+     "size": 12,
+     "x": 85.36198442457456,
+     "y": 37.667647594989454
+    }
+   ],
+   "photos": [
+    "photos/f02974b507155b003c451b37700d66d94b99af2cd6f829b91723bcd35a6279d1.jpg",
+    "photos/d27466204b42b14d5a9fffb97cd430972188c8560eb2372f881cb008a1676887.jpg",
+    "photos/5975890eda338e48070a79acaf0e3dfd8fe583281498d539db04232b6b6e8cdf.jpg"
+   ]
+  },
+  "bs2f-W2": {
+   "photos": [
+    "photos/cb1e3ea31634b0e30f1e70434fb5bf8413fd248b4d860a93ed63ea552b4ae651.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "bs1f-W1": {
+   "photos": [
+    "photos/ff01b96db80439b545dbebf371c37893a0584a6d8e373f3f25fe565dd8b74f17.jpg"
+   ],
+   "status": "판매완료",
+   "memo": ""
+  },
+  "bs2f-W1": {
+   "photos": [
+    "photos/3e54959204bb58a1dca5d64ae125ae53f2d2040aaff34fa06eafae356977cb53.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "bs3f-W1": {
+   "photos": [
+    "photos/9a076e31e7fb73073521e3bfa5882f2324949bd95c28ecd932c2b83462e726c7.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "bs3f-W2": {
+   "photos": [
+    "photos/d5ba24e0a0a9fcf012d70983f6edd4e06036669ad2044becefc24b9e7dc5ded7.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "bs4f-W2": {
+   "photos": [
+    "photos/33d9d2ab7433be490149aecef463bfde93f9db0be3c576ff633274c6701fb3c2.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "bs4f-W1": {
+   "photos": [
+    "photos/c54172dabadf4a9a8c653f5c557017881e930370d0826905d5900a6c94f1b70e.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "bs4f-W5": {
+   "photos": [
+    "photos/46a91bb183db0e9fd55ccd2fc5babeeb406f41809bdee83cd836b75e660f52a0.jpg"
+   ]
+  },
+  "bs4f-W4": {
+   "photos": [
+    "photos/46a91bb183db0e9fd55ccd2fc5babeeb406f41809bdee83cd836b75e660f52a0.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "bs4f-D1": {
+   "photos": [
+    "photos/bd8f3fb54485f8c45c5f6d9ef2c4c6333d05a769eb2dc8418dd0067de149d354.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "sp1f-W8": {
+   "photos": [
+    "photos/d55d0e8c65100ee297cf71697a0e017233437b2f1f62e675ddf4192a79a73596.jpg"
+   ]
+  },
+  "sp1f-W7": {
+   "photos": [
+    "photos/d55d0e8c65100ee297cf71697a0e017233437b2f1f62e675ddf4192a79a73596.jpg"
+   ]
+  },
+  "sp1f-W9": {
+   "photos": [
+    "photos/d55d0e8c65100ee297cf71697a0e017233437b2f1f62e675ddf4192a79a73596.jpg"
+   ]
+  },
+  "sp1f-W5": {
+   "photos": [
+    "photos/a5d7607ebab732f9a53ba0e79ca3b3f1a4ca4d823328754877ff3e14c0eb513b.jpg"
+   ]
+  },
+  "sp1f-W6": {
+   "photos": [
+    "photos/a5d7607ebab732f9a53ba0e79ca3b3f1a4ca4d823328754877ff3e14c0eb513b.jpg"
+   ]
+  },
+  "sp1f-W1": {
+   "photos": [
+    "photos/4df02d747c10de2f360241864b719242a1d8d0b67d257abb2f184b99c76ce8ff.jpg"
+   ]
+  },
+  "sp1f-W2": {
+   "photos": [
+    "photos/afb507ac3ca0e7cb901a5e218a28516c0239762c35295f08d5f233f1c9a27bd6.jpg"
+   ]
+  },
+  "sp1f-W3": {
+   "photos": [
+    "photos/c04ee3cb8d1fb88989b0eb66d85a3326816c1e25241d641748f1c38e3495f4d8.jpg"
+   ]
+  },
+  "sp1f-Q2": {
+   "photos": [
+    "photos/ca5a0173f2aba87efe6149b4ba4f86bbaf42580301b6f759346e15eb2a956f82.jpg"
+   ]
+  },
+  "sp1f-Q3": {
+   "photos": [
+    "photos/b427b37177ae64dd476768cb75cb07f225d6a5f13b2500c4b7c6b77efa67b5ec.jpg"
+   ]
+  },
+  "sp1f-Q1": {
+   "photos": [
+    "photos/8729e1b6267807f95824d2199ca7345ef9348414ddd47e2e8eca9f08297a0d64.jpg"
+   ]
+  },
+  "sp1f-W4": {
+   "photos": [
+    "photos/f02974b507155b003c451b37700d66d94b99af2cd6f829b91723bcd35a6279d1.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  },
+  "sp1f-Q4": {
+   "photos": [
+    "photos/2fddd0661f2af86e735b1ee7503fe62a0edf1e69bbdd199d458dab3e0564bd3f.jpg",
+    "photos/fe369752788b8765b6a97152afdec14307a608893251368e862721f21f921f9c.jpg"
+   ],
+   "status": "판매중",
+   "memo": ""
+  }
+ }
+}
