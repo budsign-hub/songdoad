@@ -1,0 +1,10 @@
+{
+ "app": "songdo-ad-map",
+ "v": 1,
+ "kdf": "PBKDF2-SHA256",
+ "iter": 600000,
+ "salt": "HfyjPbiqYgApXCgHNxnKqw==",
+ "iv": "F/mbIAlezD06UM9P",
+ "ct": "E28vjQJrpwbHFtW8isvEcuJ6+WUdUjng0t0getdhwVwuru9sswfP9jdW6hQhEHzGMAvaAz6H4qmtaau3kaPpiIRECNDR7kNdS1YJOAawPwQrRuSGQj//s9IdQRsKR5YIV6FJDJhWGKfxjhQIzg==",
+ "updatedAt": "2026-10-31T00:08:46.134Z"
+}
